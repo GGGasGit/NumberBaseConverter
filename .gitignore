@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
